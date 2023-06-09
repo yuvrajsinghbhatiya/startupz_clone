@@ -1,0 +1,156 @@
+.mid-container {
+  background-image: linear-gradient(315deg, #9e8fb2 0%, #a7acd9 74%);
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
+  object-fit: contain;
+}
+
+.mid-container > h1 {
+  color: #24252f;
+  font-size: 100px;
+  margin-top: -100px;
+  font-family: cursive;
+
+}
+
+.mid-container > h3 {
+  color: #fff;
+  font-size: 80px;
+  margin-top: -30px;
+}
+
+.mid-container > p {
+  margin-top: 45px;
+  color: #fff;
+  font-size: 32px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.mid-btns {
+  margin-top: 32px;
+}
+
+.thisbtn {
+  text-decoration: none;
+  color: #24252f;
+  font-size: 1.5rem;
+  display: flex;
+  margin-top: 1rem;
+  width: 50%;
+  justify-content: center;
+  align-items: center;
+  margin-left: 5.8rem;
+  
+}
+
+.thisbtn:hover {
+  color: #fff;
+  background-color: #24252f;
+  transition: 0.2s ease-in-out;
+}
+
+
+.search-input{
+  width: 30vw;
+  height: 55px;
+  border-radius: 5px;
+  border: none;
+  padding-left: 10px;
+  font-size: 20px;
+  outline: none;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+
+
+
+
+@media screen and (max-width: 960px) {
+  .mid-container > h1 {
+    font-size: 80px;
+    margin-top: 15px;
+  }
+
+  .mid-container > h3 {
+    font-size: 60px;
+    margin-top: -25px;
+  }
+
+  .mid-container > p {
+    font-size: 30px;
+    margin-top: 90px;
+  }
+
+  .search-input{
+    width: 50vw;
+  }
+
+  .thisbtn {
+    width: 50%;
+    margin-left: 6rem;
+  }
+
+  
+}
+
+@media screen and (max-width: 768px) {
+  .mid-container > h1 {
+    font-size: 70px;
+    margin-top: -65px;
+  }
+
+  .mid-container > h3 {
+    font-size: 40px;
+    margin-top: -15px;
+  }
+
+  .mid-container > p {
+    font-size: 20px;
+    margin-top: 60px;
+
+  }
+
+  .search-input{
+    width: 60vw;
+  }
+
+  .thisbtn {
+    width: 50%;
+    margin-left: 6rem;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .mid-container > h1 {
+    font-size: 60px;
+    margin-top: -65px;
+  }
+
+  .mid-container > h3 {
+    font-size: 35px;
+    margin-top: -15px;
+  }
+
+  .mid-container > p {
+    font-size: 12px;
+    margin-top: 60px;
+  }
+
+  .search-input{
+    width: 70vw;
+  }
+
+  .thisbtn {
+    width: 50%;
+    margin-left: 3.5rem;
+  }
+  
+}
+
+

@@ -1,5 +1,13 @@
 .cont1{
-  background-color: #c7bfd12f;
+  background-color: #c3caff40;
+}
+
+.cont2{
+  background-image: url("/images/midbg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
 }
 
 .container {
@@ -9,10 +17,11 @@
 
 
 h2{
-  font-size: 2rem;
+  font-size: 3rem;
   font-weight: 600;
   margin-bottom: 1rem;
-  padding: 1.5rem;
+  padding: 1.2rem;
+  text-align: left;
 
 }
 .btndiv {
@@ -54,6 +63,8 @@ h2{
   margin-right: -15px;
   margin-left: -15px;
   margin-bottom: 2rem;
+  padding-bottom: 2rem;
+  padding-top: 0.5rem;
 }
 
 .col-sm-6 {

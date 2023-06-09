@@ -14,7 +14,7 @@ function Cards() {
         <div className="row pt-5">
           <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
             <button
-              className="btn btn-hero text-capitalize rounded-0 midbtns"
+              className="btn  text-capitalize rounded-0 midbtns"
               title="B2B - Business to Business"
             >
               B2B - Business to Business
@@ -22,7 +22,7 @@ function Cards() {
           </div>
           <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
             <button
-              className="btn btn-hero text-capitalize rounded-0 midbtns"
+              className="btn  text-capitalize rounded-0 midbtns"
               title="B2C - Business to Consumer"
             >
               B2C - Business to Consumer
@@ -30,7 +30,7 @@ function Cards() {
           </div>
           <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
             <button
-              className="btn btn-hero text-capitalize rounded-0 midbtns"
+              className="btn  text-capitalize rounded-0 midbtns"
               title="B2B2C - Business to Business to Customer"
             >
               B2B2C - Business to Business to Customer
@@ -38,7 +38,7 @@ function Cards() {
           </div>
           <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
             <button
-              className="btn btn-hero text-capitalize rounded-0 midbtns"
+              className="btn  text-capitalize rounded-0 midbtns"
               title="C2C - Consumer to Consumer"
             >
               C2C - Consumer to Consumer
@@ -46,7 +46,7 @@ function Cards() {
           </div>
           <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
             <button
-              className="btn btn-hero text-capitalize rounded-0 midbtns"
+              className="btn  text-capitalize rounded-0 midbtns"
               title="C2B - Consumer to Business"
             >
               C2B - Consumer to Business
@@ -54,7 +54,7 @@ function Cards() {
           </div>
           <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
             <button
-              className="btn btn-hero text-capitalize rounded-0 midbtns"
+              className="btn  text-capitalize rounded-0 midbtns"
               title="B2A - Business to Administration"
             >
               B2A - Business to Administration
@@ -62,14 +62,14 @@ function Cards() {
           </div>
           <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
             <button
-              className="btn btn-hero text-capitalize rounded-0 midbtns"
+              className="btn  text-capitalize rounded-0 midbtns"
               title="C2A - Customer to Administration"
             >
               C2A - Customer to Administration
             </button>
           </div>
           <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
-            <button className="btn btn-hero text-capitalize rounded-0 midbtns" title="Other">
+            <button className="btn  text-capitalize rounded-0 midbtns" title="Other">
               Other
             </button>
           </div>
@@ -86,7 +86,7 @@ function Cards() {
           <div className="row pt-5">
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
               <button
-                className="btn btn-hero text-capitalize rounded-0 midbtns"
+                className="btn  text-capitalize rounded-0 midbtns"
                 title=""
               >
                 Incubation
@@ -94,7 +94,7 @@ function Cards() {
             </div>
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
               <button
-                className="btn btn-hero text-capitalize rounded-0 midbtns"
+                className="btn  text-capitalize rounded-0 midbtns"
                 title=""
               >
                 Acceleration
@@ -102,7 +102,7 @@ function Cards() {
             </div>
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
               <button
-                className="btn btn-hero text-capitalize rounded-0 midbtns"
+                className="btn  text-capitalize rounded-0 midbtns"
                 title=""
               >
                 Investment
@@ -110,7 +110,7 @@ function Cards() {
             </div>
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
               <button
-                className="btn btn-hero text-capitalize rounded-0 midbtns"
+                className="btn  text-capitalize rounded-0 midbtns"
                 title=""
               >
                 Tech Mentorship
@@ -118,7 +118,7 @@ function Cards() {
             </div>
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
               <button
-                className="btn btn-hero text-capitalize rounded-0 midbtns"
+                className="btn  text-capitalize rounded-0 midbtns"
                 title=""
               >
                 Marketing Mentorship
@@ -126,7 +126,7 @@ function Cards() {
             </div>
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
               <button
-                className="btn btn-hero text-capitalize rounded-0 midbtns"
+                className="btn  text-capitalize rounded-0 midbtns"
                 title=""
               >
                 Legal Mentorship
@@ -134,19 +134,19 @@ function Cards() {
             </div>
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
               <button
-                className="btn btn-hero text-capitalize rounded-0 midbtns"
+                className="btn  text-capitalize rounded-0 midbtns"
                 title=""
               >
                 Financial Mentorship
               </button>
             </div>
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
-              <button className="btn btn-hero text-capitalize rounded-0 midbtns" title="Other">
+              <button className="btn  text-capitalize rounded-0 midbtns" title="Other">
                 Operations Mentorship
               </button>
             </div>
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
-              <button className="btn btn-hero text-capitalize rounded-0 midbtns" title="Other">
+              <button className="btn  text-capitalize rounded-0 midbtns" title="Other">
                 Business Collabs: Co-Founder
               </button>
             </div>
@@ -163,7 +163,7 @@ function Cards() {
           <div className="row pt-5">
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
               <button
-                className="btn btn-hero text-capitalize rounded-0 midbtns"
+                className="btn  text-capitalize rounded-0 midbtns"
                 title=""
               >
                 Ideation
@@ -171,7 +171,7 @@ function Cards() {
             </div>
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
               <button
-                className="btn btn-hero text-capitalize rounded-0 midbtns"
+                className="btn  text-capitalize rounded-0 midbtns"
                 title=""
               >
                 Validation
@@ -179,7 +179,7 @@ function Cards() {
             </div>
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
               <button
-                className="btn btn-hero text-capitalize rounded-0 midbtns"
+                className="btn  text-capitalize rounded-0 midbtns"
                 title=""
               >
                 Early Traction
@@ -187,7 +187,7 @@ function Cards() {
             </div>
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
               <button
-                className="btn btn-hero text-capitalize rounded-0 midbtns"
+                className="btn  text-capitalize rounded-0 midbtns"
                 title=""
               >
                 Scaling
@@ -206,7 +206,7 @@ function Cards() {
           <div className="row pt-5">
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
               <button
-                className="btn btn-hero text-capitalize rounded-0 midbtns"
+                className="btn  text-capitalize rounded-0 midbtns"
                 title=""
               >
                 Ideation
@@ -214,7 +214,7 @@ function Cards() {
             </div>
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
               <button
-                className="btn btn-hero text-capitalize rounded-0 midbtns"
+                className="btn  text-capitalize rounded-0 midbtns"
                 title=""
               >
                 Validation
@@ -222,7 +222,7 @@ function Cards() {
             </div>
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
               <button
-                className="btn btn-hero text-capitalize rounded-0 midbtns"
+                className="btn  text-capitalize rounded-0 midbtns"
                 title=""
               >
                 Early Traction
@@ -230,7 +230,7 @@ function Cards() {
             </div>
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
               <button
-                className="btn btn-hero text-capitalize rounded-0 midbtns"
+                className="btn  text-capitalize rounded-0 midbtns"
                 title=""
               >
                 Scaling
@@ -249,7 +249,7 @@ function Cards() {
           <div className="row pt-5">
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
               <button
-                className="btn btn-hero text-capitalize rounded-0 midbtns"
+                className="btn  text-capitalize rounded-0 midbtns"
                 title=""
               >
                 Crowd Funded
@@ -257,7 +257,7 @@ function Cards() {
             </div>
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
               <button
-                className="btn btn-hero text-capitalize rounded-0 midbtns"
+                className="btn  text-capitalize rounded-0 midbtns"
                 title=""
               >
                 Pre-Seed Funded
@@ -265,7 +265,7 @@ function Cards() {
             </div>
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
               <button
-                className="btn btn-hero text-capitalize rounded-0 midbtns"
+                className="btn  text-capitalize rounded-0 midbtns"
                 title=""
               >
                 Seed Funded
@@ -273,7 +273,7 @@ function Cards() {
             </div>
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
               <button
-                className="btn btn-hero text-capitalize rounded-0 midbtns"
+                className="btn  text-capitalize rounded-0 midbtns"
                 title=""
               >
                 Series A
@@ -281,7 +281,7 @@ function Cards() {
             </div>
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
               <button
-                className="btn btn-hero text-capitalize rounded-0 midbtns"
+                className="btn  text-capitalize rounded-0 midbtns"
                 title=""
               >
                 Series B
@@ -289,7 +289,7 @@ function Cards() {
             </div>
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
               <button
-                className="btn btn-hero text-capitalize rounded-0 midbtns"
+                className="btn  text-capitalize rounded-0 midbtns"
                 title=""
               >
                 Series C
@@ -297,7 +297,7 @@ function Cards() {
             </div>
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
               <button
-                className="btn btn-hero text-capitalize rounded-0 midbtns"
+                className="btn  text-capitalize rounded-0 midbtns"
                 title=""
               >
                 Series D
@@ -305,7 +305,7 @@ function Cards() {
             </div>
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
               <button
-                className="btn btn-hero text-capitalize rounded-0 midbtns"
+                className="btn  text-capitalize rounded-0 midbtns"
                 title=""
               >
                 Series E
@@ -313,7 +313,7 @@ function Cards() {
             </div>
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
               <button
-                className="btn btn-hero text-capitalize rounded-0 midbtns"
+                className="btn  text-capitalize rounded-0 midbtns"
                 title=""
               >
                 Series F
@@ -321,7 +321,7 @@ function Cards() {
             </div>
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
               <button
-                className="btn btn-hero text-capitalize rounded-0 midbtns"
+                className="btn  text-capitalize rounded-0 midbtns"
                 title=""
               >
                 Series G
@@ -329,7 +329,7 @@ function Cards() {
             </div>
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
               <button
-                className="btn btn-hero text-capitalize rounded-0 midbtns"
+                className="btn  text-capitalize rounded-0 midbtns"
                 title=""
               >
                 Series H
@@ -348,7 +348,7 @@ function Cards() {
           <div className="row pt-5">
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
               <button
-                className="btn btn-hero text-capitalize rounded-0 midbtns"
+                className="btn  text-capitalize rounded-0 midbtns"
                 title=""
               >
                 Service
@@ -356,7 +356,7 @@ function Cards() {
             </div>
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
               <button
-                className="btn btn-hero text-capitalize rounded-0 midbtns"
+                className="btn  text-capitalize rounded-0 midbtns"
                 title=""
               >
                 Product
@@ -364,7 +364,7 @@ function Cards() {
             </div>
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
               <button
-                className="btn btn-hero text-capitalize rounded-0 midbtns"
+                className="btn  text-capitalize rounded-0 midbtns"
                 title=""
               >
                 Both
@@ -384,7 +384,7 @@ function Cards() {
           <div className="row pt-5">
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
               <button
-                className="btn btn-hero text-capitalize rounded-0 midbtns"
+                className="btn  text-capitalize rounded-0 midbtns"
                 title=""
               >
                 Equity Dilution
@@ -392,7 +392,7 @@ function Cards() {
             </div>
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
               <button
-                className="btn btn-hero text-capitalize rounded-0 midbtns"
+                className="btn  text-capitalize rounded-0 midbtns"
                 title=""
               >
                 Debt Funding
@@ -400,7 +400,7 @@ function Cards() {
             </div>
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
               <button
-                className="btn btn-hero text-capitalize rounded-0 midbtns"
+                className="btn  text-capitalize rounded-0 midbtns"
                 title=""
               >
                 Convertible Debt
@@ -408,7 +408,7 @@ function Cards() {
             </div>
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
               <button
-                className="btn btn-hero text-capitalize rounded-0 midbtns"
+                className="btn  text-capitalize rounded-0 midbtns"
                 title=""
               >
                 Crowd-Funding
@@ -416,7 +416,7 @@ function Cards() {
             </div>
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
               <button
-                className="btn btn-hero text-capitalize rounded-0 midbtns"
+                className="btn  text-capitalize rounded-0 midbtns"
                 title=""
               >
                 CSR
@@ -424,7 +424,7 @@ function Cards() {
             </div>
             <div className="col-sm-6 col-md-4 col-lg-3 mb-4 btndiv">
               <button
-                className="btn btn-hero text-capitalize rounded-0 midbtns"
+                className="btn  text-capitalize rounded-0 midbtns"
                 title=""
               >
                 All
